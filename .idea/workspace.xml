@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7da11640-181c-4de9-b1b2-b4317435be62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kgGqlVavrwEvqrMYg0FrOqeeVO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da11640-181c-4de9-b1b2-b4317435be62" name="Default Changelist" comment="" />
+      <created>1606115013643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606115013643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="227" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606115346705">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="227" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1606115346705" />
+    <state x="100" y="102" width="1346" height="668" key="AVDManager" timestamp="1606119636525">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="100" y="102" width="1346" height="668" key="AVDManager/0.0.1600.900@0.0.1600.900" timestamp="1606119636525" />
+    <state x="274" y="81" key="SettingsEditor" timestamp="1606115533240">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="274" y="81" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1606115533240" />
+  </component>
+</project>
